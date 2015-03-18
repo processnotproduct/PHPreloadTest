@@ -1,1 +1,1 @@
-<br>Footer Content from footer.php</br>
+<br>Footer Content from footer.php change</br>
