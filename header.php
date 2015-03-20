@@ -52,5 +52,5 @@ $(window).bind('popstate', function() {
 </div>
 
 <?php
-	// include 'footer.php';
+	include 'footer.php';
 ?>
